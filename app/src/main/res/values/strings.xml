@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Meus Filmes Favoritos</string>
+    <string name="vazio">Nenhum filme ainda. Toque em + para adicionar.</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="novo_filme">Novo filme</string>
+    <string name="editar_filme">Editar filme</string>
+    <string name="hint_nome">Nome do filme</string>
+    <string name="hint_foto">URL da foto</string>
+    <string name="erro_nome">Informe o nome do filme</string>
+</resources>
